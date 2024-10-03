@@ -1,0 +1,10 @@
+MD5 Values for files in /1/ (Greenbook.ISO-0-0)
+
+2a9d47cd337565ecbcd4556b85d675b2  -	1.html
+1831b1f5e0e5a22a1f9d5cbab2099f1b  -	1.jpg
+ae9ef080a292374a866d659abd55712f  -	2.jpg
+d3060c3925e2f21274c5d04ce465ef08  -	3.jpg
+30c58285a32ac6ff2232fe09cf8a11dd  -	4.jpg
+853bd591239b0225bbce59fdd7da1bc6  -	5.jpg
+1bcbf60d6f2629a35dabcb4bcf1b2071  -	Greenbook-1937.pdf
+39e0cc888b3d96fb07c411b4d52da1fa  -	greenbook.tc
